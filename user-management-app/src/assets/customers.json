@@ -1,0 +1,42 @@
+{
+    "customers": [
+        {
+            "customerId": 101,
+            "firstName": "Smita",
+            "lastName": "Kumar",
+            "email": "smitabrijesh@gmail.com",
+            "mobile": "8768768765",
+            "age": "59",
+            "picPath": "../assets/images/smiley.png"
+        },
+        {
+            "customerId": 102,
+            "firstName": "Anita",
+            "lastName": "Raj",
+            "email": "anita@gmail.com",
+            "mobile": "9879879876",
+            "age": "40",
+            "picPath": "../assets/images/smiley.png"
+        }
+        ,
+        {
+            "customerId": 103,
+            "firstName": "Nita",
+            "lastName": "Sen",
+            "email": "nita@gmail.com",
+            "mobile": "7898879876",
+            "age": "35",
+            "picPath": "../assets/images/smiley.png"
+        }
+        ,
+        {
+            "customerId": 106,
+            "firstName": "Gita",
+            "lastName": "Jha",
+            "email": "gita@gmail.com",
+            "mobile": "8889879876",
+            "age": "30",
+            "picPath": "../assets/images/smiley.png"
+        }
+    ]
+}
